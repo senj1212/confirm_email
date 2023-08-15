@@ -1,9 +1,9 @@
 
 # Email confirm
 
-Простой модуль для пайтон создан для получения временной почты и работы с ней.
+A simple python module designed to receive temporary mail and work with it.
 
-Сайт 10minutemail.net
+Site 10minutemail.net
 
 
 ## Usage/Examples
@@ -19,12 +19,11 @@ tm.get_mails()
 
 ## Documentation
 
-После создания екземпляра TempMail вы можете вызвыать у него методи.
+After creating a TempMail instance, you can call methods on it.
 
-create - получает новую временную почту
+create - get new temporary mail
 
-get_mails - возвращает словарь писем на почте.
-
+get_mails - returns a dictionary of letters in the mail.
 
 ## Authors
 
