@@ -7,7 +7,10 @@ Site 10minutemail.net
 
 
 ## Usage/Examples
-
+```python
+pip install requests
+pip install beautifulsoup4
+```
 ```python
 from email_confirm import TempMail
 
